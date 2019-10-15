@@ -32,18 +32,18 @@ public class MainActivity extends AppCompatActivity {
                 new Product(
                         1,
                         "Apple MacBook Air Core i5 5th Gen )",
-                        R.drawable.imgee));
+                        R.drawable.image1));
 
         productList.add(
                 new Product(
                         2,
                         "Microsoft Surface Pro 4 Core m3 6th Gen)",
-                        R.drawable.imgee));
+                        R.drawable.image2));
         productList.add(
                 new Product(
                         3,
                         " Pro 4 Core m3 6th Gen)",
-                        R.drawable.imgee));
+                        R.drawable.image1));
 
         //creating recyclerview adapter
 
